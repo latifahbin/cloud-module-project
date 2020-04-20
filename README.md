@@ -1,1 +1,0 @@
-# cloud-module-project
